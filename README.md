@@ -42,14 +42,13 @@ CREATE TABLE retail_sales (
     total_sale FLOAT
 );
 
- 
-##**Project Structure**
 
-### 1. **Database Setup**
-
-#### **Database Creation:** The project starts by creating a database named p1_retail_db.
-
+### 2. Data Exploration & Cleaning
+This section covers our initial data analysis and cleaning procedures.
 
 ```sql
--- Create the retail database
-CREATE DATABASE p1_retail_db;
+SELECT COUNT(*) FROM retail_sales;
+```
+
+The above query helps us understand the total number of records in our database.
+
