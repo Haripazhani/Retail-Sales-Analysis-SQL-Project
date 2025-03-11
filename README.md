@@ -41,3 +41,13 @@ CREATE TABLE retail_sales (
     cogs FLOAT,
     total_sale FLOAT
 );
+##**Project Structure**
+
+### 1. **Database Setup**
+
+#### **Database Creation:** The project starts by creating a database named p1_retail_db.
+
+
+```sql
+-- Create the retail database
+CREATE DATABASE p1_retail_db;
