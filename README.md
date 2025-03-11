@@ -15,11 +15,18 @@ This project is designed to demonstrate SQL skills and techniques typically used
 **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.  
 **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.  
 
-
 ## Technical Stack
 - SQL Database: [MySQL/PostgreSQL/etc.]
 - Version Control: GitHub
 - Additional Tools: [Any other tools used]
+
+
+  ## Project Structure
+
+### 1. Database Setup
+
+**Database Creation:**  
+The project starts by creating a database named p1_retail_db.
 
 
 
@@ -40,7 +47,8 @@ CREATE TABLE retail_sales (
     price_per_unit FLOAT,    
     cogs FLOAT,
     total_sale FLOAT
-);```
+);
+```
 
 ### 2. Data Exploration & Cleaning
 This section covers our initial data analysis and cleaning procedures.
