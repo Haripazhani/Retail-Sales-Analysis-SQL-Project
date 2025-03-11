@@ -2,9 +2,9 @@
 
 ## Project Overview
 **Project Title:** Retail Sales Analysis
-**Level:** Beginner
-**Database:** p1_retail_db
-**Last Updated:** [Date]
+##**Level:** Beginner
+##**Database:** p1_retail_db
+##**Last Updated:** [Date]
 
 ### Project Description
 [Your 2-3 sentence project description]
