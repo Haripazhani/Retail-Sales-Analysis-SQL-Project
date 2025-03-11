@@ -40,8 +40,7 @@ CREATE TABLE retail_sales (
     price_per_unit FLOAT,    
     cogs FLOAT,
     total_sale FLOAT
-);
-
+);```
 
 ### 2. Data Exploration & Cleaning
 This section covers our initial data analysis and cleaning procedures.
@@ -51,4 +50,5 @@ SELECT COUNT(*) FROM retail_sales;
 ```
 
 The above query helps us understand the total number of records in our database.
+
 
